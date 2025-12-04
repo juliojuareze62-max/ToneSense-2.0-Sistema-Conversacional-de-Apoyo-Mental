@@ -1,7 +1,7 @@
 # CognitoSense AI – Análisis Cognitivo por Voz  
 Proyecto Remedial – Innovación del Proyecto ToneSense AI
 
-## 🧠 Descripción General
+## Descripción General
 CognitoSense AI es un sistema de Inteligencia Artificial diseñado para analizar **patrones cognitivos** y **estilos de toma de decisiones** a partir de fragmentos breves de voz.  
 
 A diferencia del proyecto original (ToneSense AI), que clasificaba emociones, este sistema identifica características cognitivas como:
@@ -17,7 +17,7 @@ Este proyecto forma parte del **remedial**, representando un cambio significativ
 
 ---
 
-## 🚀 Características Principales
+##  Características Principales
 - Procesamiento de audio de 5 segundos  
 - Extracción de características cognitivas:  
   - Pausas por minuto  
@@ -29,7 +29,3 @@ Este proyecto forma parte del **remedial**, representando un cambio significativ
 - Modelo híbrido: CNN + análisis estadístico de voz  
 - Clasificación en estilos cognitivos  
 - Prototipo funcional en Python
-
----
-
-## 🏗 Arquitectura del Sistema
